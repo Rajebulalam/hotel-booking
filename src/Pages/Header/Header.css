@@ -3,7 +3,7 @@
    align-items: center;
    justify-content: space-between;
    padding: 0 100px;
-   height: 80px;
+   height: 90px;
    background-color: #003580;
 }
 .logo a{
@@ -21,9 +21,12 @@ nav a{
 }
 .register, .login{
     background-color: #fff;
-    color: #000;
+    color: #003580;
     padding: 10px 30px;
     margin-right: 20px;
+}
+.register:hover, .login:hover{
+    background-color: rgba(255, 255, 255, 0.949);
 }
 .login{
     margin-right: 0;

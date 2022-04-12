@@ -3,8 +3,8 @@ import './Footer.css';
 
 const Footer = () => {
     return (
-        <div>
-            <h2>Footer Part</h2>
+        <div className='footer-container'>
+            <p>All rights reserved by &copy; Rajebul Alam Khokan</p>
         </div>
     );
 };
