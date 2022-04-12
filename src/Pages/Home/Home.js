@@ -1,17 +1,17 @@
 import React from 'react';
 import './Home.css';
-import Singles from './Single/Singles';
-import Double from './Double/Doubles';
-import Meeting from './Meeting/Meetings';
-import Conference from './Conference/Conferences';
+import Singles from './Singles/Singles';
+import Doubles from './Doubles/Doubles';
+import Meetings from './Meetings/Meetings';
+import Conferences from './Conferences/Conferences';
 
 const Home = () => {
     return (
         <div className='home-container'>
             <Singles></Singles>
-            <Double></Double>
-            <Meeting></Meeting>
-            <Conference></Conference>
+            <Doubles></Doubles>
+            <Meetings></Meetings>
+            <Conferences></Conferences>
         </div>
     );
 };

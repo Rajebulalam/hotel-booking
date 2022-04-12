@@ -1,0 +1,11 @@
+.singles-container h2{
+    text-align: center;
+    color: #003580;
+    font-size: 2rem;
+    font-weight: 900;
+}
+.singles-details{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 30px;
+}
