@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Double House",
+        "price": "30000",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/KKJnLD2/double1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Double House",
+        "price": "10000",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/2FfCLqn/double2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Double House",
+        "price": "15000",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/7zq8zWQ/double3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Double House",
+        "price": "18000",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/fNXkg6N/double4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Double House",
+        "price": "10000",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/68BcV33/double5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Double House",
+        "price": "30000",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa",
+        "img": "https://i.ibb.co/yQmn54v/double6.jpg"
+    }
+]

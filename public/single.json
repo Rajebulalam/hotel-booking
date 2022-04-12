@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Single House",
+        "price": "30000",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/5Gzb4db/single1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Single House",
+        "price": "10000",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/ZhLWHBb/single2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Single House",
+        "price": "15000",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/68BcV33/single3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Single House",
+        "price": "18000",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/JQ9kk5y/single4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Single House",
+        "price": "10000",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/yff6M4k/single5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Single House",
+        "price": "30000",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa",
+        "img": "https://i.ibb.co/dWWcGXm/single6.jpg"
+    }
+]

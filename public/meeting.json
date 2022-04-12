@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Meeting House",
+        "price": "30000",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/WHxJRLM/meeting1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Meeting House",
+        "price": "10000",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/FJNxK4R/meeting2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Meeting House",
+        "price": "15000",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/LZFXWzb/meeting3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Meeting House",
+        "price": "18000",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/7ggCWj1/meeting4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Meeting House",
+        "price": "10000",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/y4jj8cy/meeting5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Meeting House",
+        "price": "30000",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa",
+        "img": "https://i.ibb.co/j3jn5tG/meeting6.jpg"
+    }
+]
